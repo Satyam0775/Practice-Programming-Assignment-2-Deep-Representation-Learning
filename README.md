@@ -1,7 +1,7 @@
 # 🧠 Practice Programming Assignment 2 — Advanced Deep Representation Learning
 **Author:** Satyam Kumar  
 **Instructor:** Prof. Prathosh A. P.  
-**Date:** August 17, 2025  
+**Date:** Dec 1, 2025  
 
 ---
 
