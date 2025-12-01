@@ -111,17 +111,12 @@ Available in the attached Drive or results folder:
 
 
 Run all cells sequentially
-
 Visual outputs and models will save automatically
 
 🧑‍🎓 Author’s Note
-
 This assignment demonstrates the full pipeline of representation learning:
-
 VAEs for continuous latent modeling
-
 VQ-VAE for discrete latent encoding
-
 CNN vs. MLP classification
 
 Latent-space analysis
